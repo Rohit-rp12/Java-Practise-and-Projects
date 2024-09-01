@@ -95,3 +95,7 @@ The repository is organized by "days," with each day focusing on specific topics
 
    ```bash
    git clone https://github.com/Rohit-rp12/Java-Practise-and-Projects.git
+2. To compile and run a Java file:
+   ```bash
+   javac FileName.java
+   java FileName
